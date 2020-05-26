@@ -1,3 +1,5 @@
+#Coding sample of data wrangling, trivial visualizations, and use of linear, random tree, and random forest modeling
+
 attach(housingdata)
 
 skim(sale_price)
